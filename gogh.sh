@@ -391,10 +391,11 @@ declare -a THEMES=(
   'wryan.sh'
   'wzoreck.sh'
   'zenburn.sh'
+  'hot-pink.sh'
 )
 
 # Allow developer to change url to forked url for easier testing
-BASE_URL=${BASE_URL:-"https://raw.githubusercontent.com/Gogh-Co/Gogh/master"}
+BASE_URL=${BASE_URL:-"https://raw.githubusercontent.com/Falchy/Gogh/master"}
 PROGRESS_URL="https://raw.githubusercontent.com/phenonymous/shell-progressbar/1.0/progress.sh"
 
 SCRIPT_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
