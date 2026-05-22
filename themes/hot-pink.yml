@@ -21,7 +21,7 @@ color_14: '#FF91E1'    # Bright Magenta
 color_15: '#FF91E1'    # Bright Cyan
 color_16: '#FF91E1'    # Bright White
 
-background: '#AA006B'  # Background
+background: '#86EE12'  # Background
 foreground: '#FF91E1'  # Foreground (Text)
 
 cursor: '#FF91E1'      # Cursor
