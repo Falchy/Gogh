@@ -21,7 +21,7 @@ export COLOR_15="#FF91E1"           # Bright Cyan
 export COLOR_16="#FF91E1"           # Bright White
 
 export BACKGROUND_COLOR="#AA006B"   # Background
-export FOREGROUND_COLOR="#AA006B"   # Foreground (Text)
+export FOREGROUND_COLOR="#FF91E1"   # Foreground (Text)
 
 export CURSOR_COLOR="#FF91E1" # Cursor
 
