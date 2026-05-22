@@ -22,6 +22,6 @@ color_15: '#FF91E1'    # Bright Cyan
 color_16: '#FF91E1'    # Bright White
 
 background: '#AA006B'  # Background
-foreground: '#AA006B'  # Foreground (Text)
+foreground: '#FF91E1'  # Foreground (Text)
 
 cursor: '#FF91E1'      # Cursor
